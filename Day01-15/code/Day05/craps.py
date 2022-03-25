@@ -8,7 +8,7 @@ Craps赌博游戏
 玩家进入游戏时有1000元的赌注 全部输光游戏结束
 
 Version: 0.1
-Author: 骆昊
+Author: BDFD
 Date: 2018-03-02
 """
 from random import randint

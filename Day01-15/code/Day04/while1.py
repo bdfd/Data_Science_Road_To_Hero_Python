@@ -2,7 +2,7 @@
 用while循环实现1~100求和
 
 Version: 0.1
-Author: 骆昊
+Author: BDFD
 Date: 2018-03-01
 """
 

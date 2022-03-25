@@ -2,7 +2,7 @@
 面向对象版本的猜数字游戏
 
 Version: 0.1
-Author: 骆昊
+Author: BDFD
 Date: 2018-03-08
 """
 

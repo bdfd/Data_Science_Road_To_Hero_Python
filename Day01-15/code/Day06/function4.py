@@ -11,7 +11,7 @@ Python常用模块
 - 数据处理和编码模块: base64 / csv / html.parser / json / xml / ...
 
 Version: 0.1
-Author: 骆昊
+Author: BDFD
 Date: 2018-03-05
 """
 

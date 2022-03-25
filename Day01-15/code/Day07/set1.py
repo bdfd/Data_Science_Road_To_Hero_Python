@@ -2,7 +2,7 @@
 定义和使用集合
 
 Version: 0.1
-Author: 骆昊
+Author: BDFD
 Date: 2018-03-06
 """
 

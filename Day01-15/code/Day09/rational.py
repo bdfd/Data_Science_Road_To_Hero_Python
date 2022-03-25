@@ -2,7 +2,7 @@
 运算符重载 - 自定义分数类
 
 Version: 0.1
-Author: 骆昊
+Author: BDFD
 Date: 2018-03-12
 """
 

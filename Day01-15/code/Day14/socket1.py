@@ -2,7 +2,7 @@
 套接字 - 基于TCP协议创建时间服务器
 
 Version: 0.1
-Author: 骆昊
+Author: BDFD
 Date: 2018-03-22
 """
 

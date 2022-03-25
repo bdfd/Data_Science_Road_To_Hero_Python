@@ -2,7 +2,7 @@
 输入非负整数n计算n!
 
 Version: 0.1
-Author: 骆昊
+Author: BDFD
 Date: 2018-03-01
 """
 

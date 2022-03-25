@@ -2,7 +2,7 @@
 使用多线程的情况 - 耗时间的任务在独立的线程中执行
 
 Version: 0.1
-Author: 骆昊
+Author: BDFD
 Date: 2018-03-20
 """
 
@@ -30,7 +30,7 @@ def main():
         DownloadTaskHandler(daemon=True).start()
 
     def show_about():
-        tkinter.messagebox.showinfo('关于', '作者: 骆昊(v1.0)')
+        tkinter.messagebox.showinfo('关于', '作者: BDFD(v1.0)')
 
     top = tkinter.Tk()
     top.title('单线程')

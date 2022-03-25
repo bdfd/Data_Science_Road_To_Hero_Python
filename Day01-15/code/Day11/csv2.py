@@ -2,7 +2,7 @@
 写入CSV文件
 
 Version: 0.1
-Author: 骆昊
+Author: BDFD
 Date: 2018-03-13
 """
 
@@ -31,7 +31,7 @@ class Teacher(object):
 
 
 filename = 'teacher.csv'
-teachers = [Teacher('骆昊', 38, '叫兽'), Teacher('狄仁杰', 25, '砖家')]
+teachers = [Teacher('BDFD', 38, '叫兽'), Teacher('狄仁杰', 25, '砖家')]
 
 try:
     with open(filename, 'w') as f:

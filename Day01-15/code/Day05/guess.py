@@ -4,7 +4,7 @@
 计算机根据人猜的数字分别给出提示大一点/小一点/猜对了
 
 Version: 0.1
-Author: 骆昊
+Author: BDFD
 Date: 2018-03-02
 """
 import random

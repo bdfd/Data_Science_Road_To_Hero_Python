@@ -2,7 +2,7 @@
 对象之间的依赖关系和运算符重载
 
 Version: 0.1
-Author: 骆昊
+Author: BDFD
 Date: 2018-03-12
 """
 
@@ -69,7 +69,7 @@ class Student(object):
 
 
 if __name__ == '__main__':
-    stu1 = Student('骆昊', 38)
+    stu1 = Student('BDFD', 38)
     stu1.study('Python程序设计')
     stu1.watch_av()
     stu2 = Student('王大锤', 15)

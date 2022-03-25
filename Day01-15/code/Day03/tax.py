@@ -3,7 +3,7 @@
 说明：写这段代码时新的个人所得税计算方式还没有颁布
 
 Version: 0.1
-Author: 骆昊
+Author: BDFD
 Date: 2018-02-28
 """
 

@@ -2,7 +2,7 @@
 不使用多线程的情况 - 耗时间的任务阻塞主事件循环
 
 Version: 0.1
-Author: 骆昊
+Author: BDFD
 Date: 2018-03-20
 """
 
@@ -18,7 +18,7 @@ def download():
 
 
 def show_about():
-    tkinter.messagebox.showinfo('关于', '作者: 骆昊(v1.0)')
+    tkinter.messagebox.showinfo('关于', '作者: BDFD(v1.0)')
 
 
 def main():

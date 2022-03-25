@@ -2,14 +2,14 @@
 元组的定义和使用
 
 Version: 0.1
-Author: 骆昊
+Author: BDFD
 Date: 2018-03-06
 """
 
 
 def main():
     # 定义元组
-    t = ('骆昊', 38, True, '四川成都')
+    t = ('BDFD', 38, True, '四川成都')
     print(t)
     # 获取元组中的元素
     print(t[0])

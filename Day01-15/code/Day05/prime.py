@@ -2,7 +2,7 @@
 输出2~99之间的素数
 
 Version: 0.1
-Author: 骆昊
+Author: BDFD
 Date: 2018-03-02
 """
 

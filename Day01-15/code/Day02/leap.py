@@ -2,7 +2,7 @@
 输入年份 如果是闰年输出True 否则输出False
 
 Version: 0.1
-Author: 骆昊
+Author: BDFD
 Date: 2018-02-27
 """
 

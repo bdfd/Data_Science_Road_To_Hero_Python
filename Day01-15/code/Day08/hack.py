@@ -2,7 +2,7 @@
 另一种创建类的方式
 
 Version: 0.1
-Author: 骆昊
+Author: BDFD
 Date: 2018-03-08
 """
 
@@ -17,7 +17,7 @@ def foo(self, course_name):
 
 def main():
     Student = type('Student', (object,), dict(__init__=bar, study=foo))
-    stu1 = Student('骆昊')
+    stu1 = Student('BDFD')
     stu1.study('Python程序设计')
 
 

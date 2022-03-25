@@ -37,7 +37,7 @@ def main():
     #     result = base64.b64encode(file_stream.read())
     # cli.set('guido', result)
     # persons = [
-    #     Person('骆昊', 39), Person('王大锤', 18),
+    #     Person('BDFD', 39), Person('王大锤', 18),
     #     Person('白元芳', 25), Person('狄仁杰', 37)
     # ]
     # persons = json.loads(cli.get('persons'))

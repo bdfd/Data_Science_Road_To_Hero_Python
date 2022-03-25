@@ -2,7 +2,7 @@
 英制单位英寸和公制单位厘米互换
 
 Version: 0.1
-Author: 骆昊
+Author: BDFD
 Date: 2018-02-28
 """
 

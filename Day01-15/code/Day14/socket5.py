@@ -2,7 +2,7 @@
 使用socketserver模块创建时间服务器
 
 Version: 0.1
-Author: 骆昊
+Author: BDFD
 Date: 2018-03-22
 """
 from socketserver import TCPServer, StreamRequestHandler

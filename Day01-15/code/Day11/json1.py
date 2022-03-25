@@ -2,14 +2,14 @@
 读取JSON数据
 
 Version: 0.1
-Author: 骆昊
+Author: BDFD
 Date: 2018-03-13
 """
 
 import json
 import csv2
 
-json_str = '{"name": "骆昊", "age": 38, "title": "叫兽"}'
+json_str = '{"name": "BDFD", "age": 38, "title": "叫兽"}'
 result = json.loads(json_str)
 print(result)
 print(type(result))

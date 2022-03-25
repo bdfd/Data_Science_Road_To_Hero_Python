@@ -2,7 +2,7 @@
 读取圆周率文件判断其中是否包含自己的生日
 
 Version: 0.1
-Author: 骆昊
+Author: BDFD
 Date: 2018-03-13
 """
 

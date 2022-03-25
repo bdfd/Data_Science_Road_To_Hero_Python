@@ -2,7 +2,7 @@
 生成器 - 生成器语法
 
 Version: 0.1
-Author: 骆昊
+Author: BDFD
 Date: 2018-03-21
 """
 

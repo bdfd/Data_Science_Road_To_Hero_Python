@@ -2,7 +2,7 @@
 输入两个正整数计算最大公约数和最小公倍数
 
 Version: 0.1
-Author: 骆昊
+Author: BDFD
 Date: 2018-03-01
 """
 

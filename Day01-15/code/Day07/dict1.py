@@ -2,14 +2,14 @@
 定义和使用字典
 
 Version: 0.1
-Author: 骆昊
+Author: BDFD
 Date: 2018-03-06
 """
 
 
 def main():
-    scores = {'骆昊': 95, '白元芳': 78, '狄仁杰': 82}
-    print(scores['骆昊'])
+    scores = {'BDFD': 95, '白元芳': 78, '狄仁杰': 82}
+    print(scores['BDFD'])
     print(scores['狄仁杰'])
     for elem in scores:
         print('%s\t--->\t%d' % (elem, scores[elem]))
@@ -23,7 +23,7 @@ def main():
     print(scores.get('武则天', 60))
     print(scores.popitem())
     print(scores.popitem())
-    print(scores.pop('骆昊', 100))
+    print(scores.pop('BDFD', 100))
     scores.clear()
     print(scores)
 

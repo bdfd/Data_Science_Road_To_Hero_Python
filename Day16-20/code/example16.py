@@ -49,7 +49,7 @@ def main():
     # students.add(Student(1001, '白元芳'))
     # print(len(students))
     # print(students)
-    stu = Student(1234, '骆昊')
+    stu = Student(1234, 'BDFD')
     stu.gender = 'Male'
     # stu.birth = '1980-11-28'
     print(stu.name, stu.birth)

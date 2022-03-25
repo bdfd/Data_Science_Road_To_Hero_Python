@@ -2,7 +2,7 @@
 输入一个正整数判断它是不是素数
 
 Version: 0.1
-Author: 骆昊
+Author: BDFD
 Date: 2018-03-01
 """
 from math import sqrt

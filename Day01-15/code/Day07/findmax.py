@@ -2,7 +2,7 @@
 找出列表中最大或最小的元素
 
 Version: 0.1
-Author: 骆昊
+Author: BDFD
 Date: 2018-03-06
 """
 

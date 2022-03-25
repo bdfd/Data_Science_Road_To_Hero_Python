@@ -3,7 +3,7 @@
 如果能则计算出三角形的周长和面积
 
 Version: 0.1
-Author: 骆昊
+Author: BDFD
 Date: 2018-02-28
 """
 import math
